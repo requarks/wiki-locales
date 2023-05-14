@@ -1,0 +1,37 @@
+[
+  {
+    "code": "en",
+    "name": "English",
+    "nativeName": "English",
+    "rtl": false,
+    "completeness": 100
+  },
+  {
+    "code": "fr",
+    "name": "French",
+    "nativeName": "Français",
+    "rtl": false,
+    "completeness": 100
+  },
+  {
+    "code": "de",
+    "name": "German",
+    "nativeName": "Deutsch",
+    "rtl": false,
+    "completeness": 25
+  },
+  {
+    "code": "it",
+    "name": "Italian",
+    "nativeName": "Italiano",
+    "rtl": false,
+    "completeness": 0
+  }
+  {
+    "code": "es",
+    "name": "Spanish",
+    "nativeName": "Español",
+    "rtl": false,
+    "completeness": 60
+  }
+]
