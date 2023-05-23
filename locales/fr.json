@@ -9,7 +9,7 @@
   "admin.analytics.title": "Analytics",
   "admin.api.copyKeyTitle": "Copiez la clé API",
   "admin.api.createInvalidData": "Certains champs sont manquants ou contiennent des données invalides.",
-  "admin.api.createSuccess": "API Key created successfully.",
+  "admin.api.createSuccess": "Clé API créée avec succès.",
   "admin.api.disableButton": "Disable API",
   "admin.api.disabled": "API Disabled",
   "admin.api.enableButton": "Enable API",
