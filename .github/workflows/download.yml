@@ -1,0 +1,29 @@
+name: Download Locales
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Localazy CLI
+        run: |
+          curl -sS https://dist.localazy.com/debian/pubkey.gpg | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/localazy.gpg
+          echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/trusted.gpg.d/localazy.gpg] https://maven.localazy.com/repository/apt/ stable main" | sudo tee /etc/apt/sources.list.d/localazy.list
+          sudo apt-get update && sudo apt-get install localazy
+          
+      - name: Fetch Locales
+        run: |
+          localazy download -r ${{ secrets.LOCALAZY_KEY_READ }}
+
+      - name: Commit Locale Files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          branch: main
+          commit_message: 'chore: update locale files'
+          file_pattern: 'locales/*'
