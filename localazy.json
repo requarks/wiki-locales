@@ -1,0 +1,7 @@
+{
+  "download": {
+    "folder": "locales",
+    "files": "${lang}.json",
+    "metadataFileJs": "metadata.js"
+  }
+}
