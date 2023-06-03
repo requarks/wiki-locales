@@ -128,7 +128,6 @@
   "admin.dev.flags.title": "Indicateurs",
   "admin.dev.graphiql.title": "GraphiQL",
   "admin.dev.title": "Outils de développement",
-  "admin.dev.voyager.title": "Voyager",
   "admin.editors.apiDescription": "Documentez vos API REST / GraphQL.",
   "admin.editors.apiName": "Éditeur de documents de l'API",
   "admin.editors.asciidocDescription": "Utilisez la syntaxe AsciiDoc pour écrire du contenu. Inclut un aperçu en temps réel.",
