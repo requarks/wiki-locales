@@ -994,7 +994,7 @@
   "admin.users.userAlreadyAssignedToGroup": "Пользователь уже включен в эту группу!",
   "admin.users.userDeactivateSuccess": "Пользователь успешно деактивирован.",
   "admin.users.userTFADisableSuccess": "Двухфакторная аутентификация успешно отключена.",
-  "admin.users.userTFAEnableSuccess": "2FA was enabled successfully.",
+  "admin.users.userTFAEnableSuccess": "Двухфакторная аутентификация успешно включена.",
   "admin.users.userUpdateSuccess": "User updated successfully.",
   "admin.users.userVerifySuccess": "User has been verified successfully.",
   "admin.users.verified": "Verified",
