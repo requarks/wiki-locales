@@ -3,6 +3,14 @@
     "baseLocale": "en",
     "languages": [
         {
+            "language": "ar",
+            "region": "",
+            "script": "",
+            "isRtl": true,
+            "name": "Arabic",
+            "localizedName": "العربية"
+        },
+        {
             "language": "de",
             "region": "",
             "script": "",
@@ -62,6 +70,7 @@
             "productFlavors": [
             ],
             "cdnFiles": {
+                "ar": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/ar/file.json",
                 "de": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/de/file.json",
                 "en": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/en/file.json",
                 "fr": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/fr/file.json",
