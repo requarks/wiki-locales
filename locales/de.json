@@ -1642,6 +1642,7 @@
   "fileman.rarFileType": "RAR-Archiv",
   "fileman.renameFolderInvalidData": "One or more fields are invalid.",
   "fileman.renameFolderSuccess": "Ordner erfolgreich umbenannt.",
+  "fileman.searchFolder": "Search folder...",
   "fileman.svgFileType": "Skalierbare Vektorgrafik",
   "fileman.tarFileType": "TAR-Archiv",
   "fileman.tgzFileType": "Gzipptes TAR-Archiv",

@@ -1642,6 +1642,7 @@
   "fileman.rarFileType": "Archive RAR",
   "fileman.renameFolderInvalidData": "Un ou plusieurs champs ne sont pas valides.",
   "fileman.renameFolderSuccess": "Dossier renommé avec succès.",
+  "fileman.searchFolder": "Rechercher dans le dossier...",
   "fileman.svgFileType": "Graphique vectoriel adaptable (SVG)",
   "fileman.tarFileType": "Archives TAR",
   "fileman.tgzFileType": "Archive TAR GZip",
