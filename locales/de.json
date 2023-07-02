@@ -1216,6 +1216,7 @@
   "common.actions.rename": "Umbenennen",
   "common.actions.returnToTop": "Zurück nach oben",
   "common.actions.save": "Speichern",
+  "common.actions.saveAndClose": "Save and Close",
   "common.actions.saveChanges": "Änderungen speichern",
   "common.actions.select": "Auswählen",
   "common.actions.update": "Aktualisieren",

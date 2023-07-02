@@ -1216,6 +1216,7 @@
   "common.actions.rename": "Переименовать",
   "common.actions.returnToTop": "Вернуться к началу",
   "common.actions.save": "Сохранить",
+  "common.actions.saveAndClose": "Save and Close",
   "common.actions.saveChanges": "Сохранить изменения",
   "common.actions.select": "Выбрать",
   "common.actions.update": "Обновить",
