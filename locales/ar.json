@@ -1,7 +1,7 @@
 {
   "admin.adminArea": "مجال الادارة",
   "admin.analytics.providerConfiguration": "معيل الاعدادات",
-  "admin.analytics.providerNoConfiguration": "لا يحتوي هذا الموفر على خيارات تكوين بإمكانك تعديلها.",
+  "admin.analytics.providerNoConfiguration": "لا يحتوي هذا الموفر على خيارات تكوين بإمكانك تعديل",
   "admin.analytics.providers": "الموفرون",
   "admin.analytics.refreshSuccess": "لقد تم تحديث قائمة المتقدمين بنجاح",
   "admin.analytics.saveSuccess": "لقد تم حفظ تكوين الإحصائيات بنجاح",
