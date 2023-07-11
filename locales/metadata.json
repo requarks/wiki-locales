@@ -3,6 +3,14 @@
     "baseLocale": "en",
     "languages": [
         {
+            "language": "af",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Afrikaans",
+            "localizedName": "Afrikaans"
+        },
+        {
             "language": "ar",
             "region": "",
             "script": "",
@@ -70,6 +78,7 @@
             "productFlavors": [
             ],
             "cdnFiles": {
+                "af": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/af/file.json",
                 "ar": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/ar/file.json",
                 "de": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/de/file.json",
                 "en": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/en/file.json",
