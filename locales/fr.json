@@ -195,6 +195,8 @@
   "admin.flags.authDebug.label": "Débogage d'authentification",
   "admin.flags.experimental.hint": "Activez les fonctionnalités instables / inachevées. NE L'ACTIVEZ PAS dans un environnement en production !",
   "admin.flags.experimental.label": "Fonctionnalités expérimentales",
+  "admin.flags.getTokenHint": "Copy your current authentication token for use in GraphQL API testing.",
+  "admin.flags.getTokenLabel": "Get Current Token",
   "admin.flags.saveSuccess": "Les indicateurs ont été mis à jour avec succès.",
   "admin.flags.sqlLog.hint": "Enregistrer toutes les requêtes effectuées dans la base de données dans la console.",
   "admin.flags.sqlLog.label": "Journalisation des requêtes SQL",

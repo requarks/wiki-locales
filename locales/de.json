@@ -195,6 +195,8 @@
   "admin.flags.authDebug.label": "Auth Debug",
   "admin.flags.experimental.hint": "Aktiviere instabile/unfertige Funktionen. NICHT in einer Produktionsumgebung aktivieren!",
   "admin.flags.experimental.label": "Experimentelle Funktionen",
+  "admin.flags.getTokenHint": "Copy your current authentication token for use in GraphQL API testing.",
+  "admin.flags.getTokenLabel": "Get Current Token",
   "admin.flags.saveSuccess": "Flags wurden erfolgreich aktualisiert.",
   "admin.flags.sqlLog.hint": "Protokolliert alle an die Datenbank gestellten Abfragen in der Konsole.",
   "admin.flags.sqlLog.label": "SQL-Abfrageprotokollierung",

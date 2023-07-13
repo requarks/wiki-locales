@@ -195,6 +195,8 @@
   "admin.flags.authDebug.label": "Отладка авторизации",
   "admin.flags.experimental.hint": "Включите нестабильные и незавершенные функции. НЕ включайте в производственной среде!",
   "admin.flags.experimental.label": "Экспериментальные возможности",
+  "admin.flags.getTokenHint": "Copy your current authentication token for use in GraphQL API testing.",
+  "admin.flags.getTokenLabel": "Get Current Token",
   "admin.flags.saveSuccess": "Флаги успешно обновлены.",
   "admin.flags.sqlLog.hint": "Записывать все запросы к базе данных в консоль.",
   "admin.flags.sqlLog.label": "Ведение журнала SQL-запросов",
