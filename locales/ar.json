@@ -59,7 +59,7 @@
   "admin.api.revoked": "تم إلغاؤه",
   "admin.api.revokedHint": "This key has been revoked and can no longer be used.",
   "admin.api.subtitle": "Manage keys to access the API",
-  "admin.api.title": "API Access",
+  "admin.api.title": "الوصول إلى API",
   "admin.api.toggleStateDisabledSuccess": "API has been disabled successfully.",
   "admin.api.toggleStateEnabledSuccess": "API has been enabled successfully.",
   "admin.approval.title": "Approvals",
