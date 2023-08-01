@@ -1530,6 +1530,7 @@
   "editor.pageRel.title": "Seitenbeziehung hinzufügen",
   "editor.pageRel.titleEdit": "Seitenbeziehung bearbeiten",
   "editor.pageScripts.title": "Seitenskripte",
+  "editor.pendingAssetsUploading": "Uploading assets...",
   "editor.props.alias": "Alias",
   "editor.props.allowComments": "Kommentare zulassen",
   "editor.props.allowCommentsHint": "Aktiviere die Kommentarfunktion auf dieser Seite.",
