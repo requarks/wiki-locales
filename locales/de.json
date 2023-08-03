@@ -87,6 +87,7 @@
   "admin.auth.infoNameHint": "Display name for this strategy.",
   "admin.auth.loginUrl": "Anmelde-URL",
   "admin.auth.logoutUrl": "Abmelde-URL",
+  "admin.auth.noConfigOption": "This strategy has no configuration options you can modify.",
   "admin.auth.refreshSuccess": "Die Liste der Strategien wurde aktualisiert.",
   "admin.auth.registration": "Registrierung",
   "admin.auth.saveSuccess": "Die Authentifizierungskonfiguration wurde erfolgreich gespeichert.",

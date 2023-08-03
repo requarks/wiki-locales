@@ -87,6 +87,7 @@
   "admin.auth.infoNameHint": "Display name for this strategy.",
   "admin.auth.loginUrl": "URL-адрес для входа",
   "admin.auth.logoutUrl": "URL-адрес для выхода",
+  "admin.auth.noConfigOption": "This strategy has no configuration options you can modify.",
   "admin.auth.refreshSuccess": "Список стратегий обновлен.",
   "admin.auth.registration": "Регистрация",
   "admin.auth.saveSuccess": "Настройки аутентификации успешно сохранены.",

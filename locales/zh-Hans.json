@@ -87,6 +87,7 @@
   "admin.auth.infoNameHint": "Display name for this strategy.",
   "admin.auth.loginUrl": "登录网址",
   "admin.auth.logoutUrl": "注销网址",
+  "admin.auth.noConfigOption": "This strategy has no configuration options you can modify.",
   "admin.auth.refreshSuccess": "策略列表已刷新",
   "admin.auth.registration": "注册",
   "admin.auth.saveSuccess": "身份验证配置已成功保存。",
