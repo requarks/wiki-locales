@@ -43,6 +43,14 @@
             "localizedName": "Français"
         },
         {
+            "language": "ko",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Korean",
+            "localizedName": "한국어"
+        },
+        {
             "language": "pt",
             "region": "BR",
             "script": "",
@@ -83,6 +91,7 @@
                 "de": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/de/file.json",
                 "en": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/en/file.json",
                 "fr": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/fr/file.json",
+                "ko": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/ko/file.json",
                 "pt_BR": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/pt-BR/file.json",
                 "ru": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/ru/file.json",
                 "zh#Hans": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/zh-Hans/file.json"
