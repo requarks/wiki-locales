@@ -11,12 +11,68 @@
             "localizedName": "Afrikaans"
         },
         {
+            "language": "am",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Amharic",
+            "localizedName": "አማርኛ"
+        },
+        {
             "language": "ar",
             "region": "",
             "script": "",
             "isRtl": true,
             "name": "Arabic",
             "localizedName": "العربية"
+        },
+        {
+            "language": "az",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Azerbaijani",
+            "localizedName": "Azərbaycan"
+        },
+        {
+            "language": "bg",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Bulgarian",
+            "localizedName": "Български"
+        },
+        {
+            "language": "bs",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Bosnian",
+            "localizedName": "Bosanski"
+        },
+        {
+            "language": "ca",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Catalan",
+            "localizedName": "Català"
+        },
+        {
+            "language": "cs",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Czech",
+            "localizedName": "Čeština"
+        },
+        {
+            "language": "da",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Danish",
+            "localizedName": "Dansk"
         },
         {
             "language": "de",
@@ -27,12 +83,60 @@
             "localizedName": "Deutsch"
         },
         {
+            "language": "el",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Greek",
+            "localizedName": "Ελληνικά"
+        },
+        {
             "language": "en",
             "region": "",
             "script": "",
             "isRtl": false,
             "name": "English",
             "localizedName": "English"
+        },
+        {
+            "language": "es",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Spanish",
+            "localizedName": "Español"
+        },
+        {
+            "language": "et",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Estonian",
+            "localizedName": "Eesti"
+        },
+        {
+            "language": "eu",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Basque",
+            "localizedName": "Euskara"
+        },
+        {
+            "language": "fa",
+            "region": "",
+            "script": "",
+            "isRtl": true,
+            "name": "Persian",
+            "localizedName": "فارسی"
+        },
+        {
+            "language": "fi",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Finnish",
+            "localizedName": "Suomi"
         },
         {
             "language": "fr",
@@ -43,12 +147,164 @@
             "localizedName": "Français"
         },
         {
+            "language": "gu",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Gujarati",
+            "localizedName": "ગુજરાતી"
+        },
+        {
+            "language": "hi",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Hindi",
+            "localizedName": "हिन्दी"
+        },
+        {
+            "language": "ht",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Haitian Creole",
+            "localizedName": "Haitian Creole"
+        },
+        {
+            "language": "hu",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Hungarian",
+            "localizedName": "Magyar"
+        },
+        {
+            "language": "hy",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Armenian",
+            "localizedName": "Հայերեն"
+        },
+        {
+            "language": "id",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Indonesian",
+            "localizedName": "Indonesia"
+        },
+        {
+            "language": "is",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Icelandic",
+            "localizedName": "Íslenska"
+        },
+        {
+            "language": "it",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Italian",
+            "localizedName": "Italiano"
+        },
+        {
+            "language": "ja",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Japanese",
+            "localizedName": "日本語"
+        },
+        {
+            "language": "kk",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Kazakh",
+            "localizedName": "Қазақ Тілі"
+        },
+        {
+            "language": "km",
+            "region": "KH",
+            "script": "",
+            "isRtl": false,
+            "name": "Khmer (Cambodia)",
+            "localizedName": "ខ្មែរ (កម្ពុជា)"
+        },
+        {
             "language": "ko",
             "region": "",
             "script": "",
             "isRtl": false,
             "name": "Korean",
             "localizedName": "한국어"
+        },
+        {
+            "language": "lt",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Lithuanian",
+            "localizedName": "Lietuvių"
+        },
+        {
+            "language": "lv",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Latvian",
+            "localizedName": "Latviešu"
+        },
+        {
+            "language": "mk",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Macedonian",
+            "localizedName": "Македонски"
+        },
+        {
+            "language": "mn",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Mongolian",
+            "localizedName": "Монгол"
+        },
+        {
+            "language": "nb",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Norwegian Bokmål",
+            "localizedName": "Norsk Bokmål"
+        },
+        {
+            "language": "nl",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Dutch",
+            "localizedName": "Nederlands"
+        },
+        {
+            "language": "nn",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Norwegian Nynorsk",
+            "localizedName": "Nynorsk"
+        },
+        {
+            "language": "pl",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Polish",
+            "localizedName": "Polski"
         },
         {
             "language": "pt",
@@ -59,6 +315,14 @@
             "localizedName": "Português (Brasil)"
         },
         {
+            "language": "ro",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Romanian",
+            "localizedName": "Română"
+        },
+        {
             "language": "ru",
             "region": "",
             "script": "",
@@ -67,12 +331,116 @@
             "localizedName": "Русский"
         },
         {
+            "language": "si",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Sinhala",
+            "localizedName": "සිංහල"
+        },
+        {
+            "language": "sk",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Slovak",
+            "localizedName": "Slovenčina"
+        },
+        {
+            "language": "sl",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Slovenian",
+            "localizedName": "Slovenščina"
+        },
+        {
+            "language": "sr",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Serbian",
+            "localizedName": "Српски"
+        },
+        {
+            "language": "sr",
+            "region": "",
+            "script": "Latn",
+            "isRtl": false,
+            "name": "Serbian (Latin)",
+            "localizedName": "Srpski (Latinica)"
+        },
+        {
+            "language": "sv",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Swedish",
+            "localizedName": "Svenska"
+        },
+        {
+            "language": "ta",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Tamil",
+            "localizedName": "தமிழ்"
+        },
+        {
+            "language": "th",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Thai",
+            "localizedName": "ไทย"
+        },
+        {
+            "language": "tr",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Turkish",
+            "localizedName": "Türkçe"
+        },
+        {
+            "language": "ug",
+            "region": "",
+            "script": "",
+            "isRtl": true,
+            "name": "Uyghur",
+            "localizedName": "ئۇيغۇرچە"
+        },
+        {
+            "language": "uk",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Ukrainian",
+            "localizedName": "Українська"
+        },
+        {
+            "language": "vi",
+            "region": "",
+            "script": "",
+            "isRtl": false,
+            "name": "Vietnamese",
+            "localizedName": "Tiếng Việt"
+        },
+        {
             "language": "zh",
             "region": "",
             "script": "Hans",
             "isRtl": false,
             "name": "Simplified Chinese",
             "localizedName": "简体中文"
+        },
+        {
+            "language": "zh",
+            "region": "",
+            "script": "Hant",
+            "isRtl": false,
+            "name": "Traditional Chinese",
+            "localizedName": "繁體中文"
         }
     ],
     "files": [
@@ -87,14 +455,60 @@
             ],
             "cdnFiles": {
                 "af": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/af/file.json",
+                "am": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/am/file.json",
                 "ar": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/ar/file.json",
+                "az": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/az/file.json",
+                "bg": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/bg/file.json",
+                "bs": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/bs/file.json",
+                "ca": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/ca/file.json",
+                "cs": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/cs/file.json",
+                "da": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/da/file.json",
                 "de": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/de/file.json",
+                "el": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/el/file.json",
                 "en": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/en/file.json",
+                "es": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/es/file.json",
+                "et": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/et/file.json",
+                "eu": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/eu/file.json",
+                "fa": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/fa/file.json",
+                "fi": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/fi/file.json",
                 "fr": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/fr/file.json",
+                "gu": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/gu/file.json",
+                "hi": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/hi/file.json",
+                "ht": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/ht/file.json",
+                "hu": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/hu/file.json",
+                "hy": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/hy/file.json",
+                "id": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/id/file.json",
+                "is": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/is/file.json",
+                "it": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/it/file.json",
+                "ja": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/ja/file.json",
+                "kk": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/kk/file.json",
+                "km_KH": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/km-KH/file.json",
                 "ko": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/ko/file.json",
+                "lt": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/lt/file.json",
+                "lv": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/lv/file.json",
+                "mk": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/mk/file.json",
+                "mn": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/mn/file.json",
+                "nb": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/nb/file.json",
+                "nl": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/nl/file.json",
+                "nn": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/nn/file.json",
+                "pl": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/pl/file.json",
                 "pt_BR": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/pt-BR/file.json",
+                "ro": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/ro/file.json",
                 "ru": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/ru/file.json",
-                "zh#Hans": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/zh-Hans/file.json"
+                "si": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/si/file.json",
+                "sk": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/sk/file.json",
+                "sl": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/sl/file.json",
+                "sr": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/sr/file.json",
+                "sr#Latn": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/sr-Latn/file.json",
+                "sv": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/sv/file.json",
+                "ta": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/ta/file.json",
+                "th": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/th/file.json",
+                "tr": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/tr/file.json",
+                "ug": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/ug/file.json",
+                "uk": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/uk/file.json",
+                "vi": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/vi/file.json",
+                "zh#Hans": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/zh-Hans/file.json",
+                "zh#Hant": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/zh-Hant/file.json"
             }
         }
     ]
