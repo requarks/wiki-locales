@@ -1,9 +1,9 @@
 {
   "admin.adminArea": "mhbjhb",
   "admin.analytics.providerConfiguration": "Provider Configuration",
-  "admin.analytics.providerNoConfiguration": "This provider has no configuration options you can modify.",
-  "admin.analytics.providers": "Providers",
-  "admin.analytics.refreshSuccess": "List of providers refreshed successfully.",
+  "admin.analytics.providerNoConfiguration": "مرحبا ",
+  "admin.analytics.providers": "",
+  "admin.analytics.refreshSuccess": "مرحبا ",
   "admin.analytics.saveSuccess": "Analytics configuration saved successfully",
   "admin.analytics.subtitle": "Add analytics and tracking tools to your wiki",
   "admin.analytics.title": "Analytics",
