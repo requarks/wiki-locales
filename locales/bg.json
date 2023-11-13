@@ -41,7 +41,7 @@
   "admin.api.newKeyGroupError": "Трябва да изберете група.",
   "admin.api.newKeyGroupHint": "API ключът ще има същите разрешения като избраната група.",
   "admin.api.newKeyGroupPermissions": "или използвайте групови разрешения...",
-  "admin.api.newKeyGuestGroupError": "The guests group cannot be used for API keys.",
+  "admin.api.newKeyGuestGroupError": "Групата гости не може да се използва за API ключове.",
   "admin.api.newKeyName": "Name",
   "admin.api.newKeyNameError": "Името липсва или е невалидно.",
   "admin.api.newKeyNameHint": "Цел на този ключ",
