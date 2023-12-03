@@ -1,6 +1,6 @@
 {
   "admin.adminArea": "行政区域",
-  "admin.analytics.providerConfiguration": "提供商配置",
+  "admin.analytics.providerConfiguration": "提供者配置",
   "admin.analytics.providerNoConfiguration": "此提供商没有您可以修改的配置选项。",
   "admin.analytics.providers": "提供商",
   "admin.analytics.refreshSuccess": "提供商列表已成功刷新。",
