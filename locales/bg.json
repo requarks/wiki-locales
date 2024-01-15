@@ -511,7 +511,7 @@
   "admin.navigation.navType.page": "Страница",
   "admin.navigation.navType.searchQuery": "Заявка за търсене",
   "admin.navigation.noItemsText": "Click the Add button to add your first navigation item.",
-  "admin.navigation.noSelectionText": "Select a navigation item on the left.",
+  "admin.navigation.noSelectionText": "Изберете елемент за навигация вляво.",
   "admin.navigation.saveSuccess": "Navigation saved successfully.",
   "admin.navigation.selectPageButton": "Изберете страница...",
   "admin.navigation.sourceLocale": "Source Locale",
