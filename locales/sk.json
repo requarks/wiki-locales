@@ -1,7 +1,7 @@
 {
-  "admin.adminArea": "Administration Area",
-  "admin.analytics.providerConfiguration": "Provider Configuration",
-  "admin.analytics.providerNoConfiguration": "This provider has no configuration options you can modify.",
+  "admin.adminArea": "Administratívna oblasť",
+  "admin.analytics.providerConfiguration": "Konfigurácia poskytovateľa",
+  "admin.analytics.providerNoConfiguration": "Tento poskytovateľ nemá žiadne možnosti konfigurácie, ktoré môžete upraviť.",
   "admin.analytics.providers": "Providers",
   "admin.analytics.refreshSuccess": "List of providers refreshed successfully.",
   "admin.analytics.saveSuccess": "Analytics configuration saved successfully",
