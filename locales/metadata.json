@@ -155,6 +155,14 @@
             "localizedName": "ગુજરાતી"
         },
         {
+            "language": "he",
+            "region": "",
+            "script": "",
+            "isRtl": true,
+            "name": "Hebrew",
+            "localizedName": "עברית"
+        },
+        {
             "language": "hi",
             "region": "",
             "script": "",
@@ -363,14 +371,6 @@
             "localizedName": "Српски"
         },
         {
-            "language": "sr",
-            "region": "",
-            "script": "Latn",
-            "isRtl": false,
-            "name": "Serbian (Latin)",
-            "localizedName": "Srpski (Latinica)"
-        },
-        {
             "language": "sv",
             "region": "",
             "script": "",
@@ -472,6 +472,7 @@
                 "fi": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/fi/file.json",
                 "fr": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/fr/file.json",
                 "gu": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/gu/file.json",
+                "he": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/he/file.json",
                 "hi": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/hi/file.json",
                 "ht": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/ht/file.json",
                 "hu": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/hu/file.json",
@@ -498,7 +499,6 @@
                 "sk": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/sk/file.json",
                 "sl": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/sl/file.json",
                 "sr": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/sr/file.json",
-                "sr#Latn": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/sr-Latn/file.json",
                 "sv": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/sv/file.json",
                 "ta": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/ta/file.json",
                 "th": "https://delivery.localazy.com/_a7797965569058078203416ae5aa/_e0/54b977214afbffe2ffeb07d0ccb03558e75e4408/th/file.json",
