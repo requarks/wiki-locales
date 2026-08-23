@@ -21,3 +21,7 @@ jobs:
         with:
           command: 'download'
           command_args: '--config dev/crowdin.yml --all'
+
+      - name: List files
+        run: |
+          ls -lah
