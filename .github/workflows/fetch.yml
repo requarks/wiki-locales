@@ -24,7 +24,7 @@ jobs:
 
       - name: Generate metadata
         run: |
-          rm metadata.json
+          rm -f metadata.json
           bash ./dev/generate-metadata.sh
 
       - name: Commit changes
