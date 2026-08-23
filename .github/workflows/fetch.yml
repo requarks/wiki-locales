@@ -22,6 +22,14 @@ jobs:
           command: 'download'
           command_args: '--config dev/crowdin.yml --all'
 
-      - name: List files
+      - name: Generate metadata
         run: |
-          ls -lah
+          rm metadata.json
+          bash ./dev/generate-metadata.sh
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          branch: ${{ github.ref_name }}
+          commit_message: 'chore: fetch localization files from Crowdin'
+          file_pattern: '*.json'
