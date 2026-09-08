@@ -285,6 +285,7 @@
   "admin.auth.enabled": "Activée",
   "admin.auth.enabledForced": "Cette stratégie ne peut pas être désactivée.",
   "admin.auth.enabledHint": "Si cette stratégie est disponible comme authentification pour les sites.",
+  "admin.auth.enabledSiteHint": "Note that the strategy also needs to be enabled under the site's Login page before it appears on the login screen.",
   "admin.auth.enforceTfa": "Forcer l'authentification à deux facteurs",
   "admin.auth.enforceTfaHint": "Les utilisateurs devront configurer l'authentification à deux facteurs la première fois qu'ils se connectent et cela ne peut pas être désactivé par l'utilisateur.",
   "admin.auth.globalAdvSettings": "Paramètres avancés globaux",
