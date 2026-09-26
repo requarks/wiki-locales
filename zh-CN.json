@@ -2012,6 +2012,7 @@
   "common.page.global": "全局",
   "common.page.id": "ID {id}",
   "common.page.lastEditedBy": "最后编辑者",
+  "common.page.lastModified": "Last modified on {date}",
   "common.page.loading": "正在加载页面...",
   "common.page.locked": "此页面已受密码保护。",
   "common.page.lockedHint": "输入密码以阅读。",
