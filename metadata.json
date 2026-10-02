@@ -57,7 +57,7 @@
   },
   {
     "file": "fi-FI.json",
-    "hash": "85172c4da8cb3169c550ca5b9767c844343455bece9f70973f58e0ced99dbdb7"
+    "hash": "51556750cbb09e9c508da74666c6f2facf0e78bf652531145c8557ddb8ccf30f"
   },
   {
     "file": "fr-FR.json",
@@ -217,6 +217,6 @@
   },
   {
     "file": "zh-TW.json",
-    "hash": "ae030527b5a8c1fe347911a99542d3d088fa175047b44aac357695f093c9f3ad"
+    "hash": "9f19e34a14853886a044eab947b45104c7edc4009a2d81111a3cce7b1c2e18b7"
   }
 ]
