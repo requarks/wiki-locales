@@ -300,7 +300,7 @@
   "admin.auth.addPending": "已添加 {strategy}。将会在按下“应用”时创建。",
   "admin.auth.addStrategy": "添加登录方式",
   "admin.auth.allowPasskeys": "允许通行密钥",
-  "admin.auth.allowPasskeysHint": "用户可以用同行秘钥登录并进行注册吗？ 已注册的同行秘钥在禁用时将被保留，重新启用即可再次使用。",
+  "admin.auth.allowPasskeysHint": "用户可以用通行秘钥登录并进行注册吗？ 已注册的通行秘钥在禁用时将被保留，重新启用即可再次使用。",
   "admin.auth.allowProfileEditing": "允许编辑个人信息",
   "admin.auth.allowProfileEditingHint": "用户可以编辑自己的个人信息吗？如果个人信息数据由外部身份认证方式管理，则应关闭此功能。",
   "admin.auth.allowedEmailRegex": "限制电子邮件域名",
