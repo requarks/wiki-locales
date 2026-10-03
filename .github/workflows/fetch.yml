@@ -23,6 +23,28 @@ jobs:
           command: 'download'
           command_args: '--config dev/crowdin.yml --all'
 
+      - name: Fetch translation progress
+        env:
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+        run: |
+          project_id="$(yq -r '.project_id' dev/crowdin.yml)"
+          api="https://api.crowdin.com/api/v2/projects/${project_id}"
+          auth=(-H "Authorization: Bearer ${CROWDIN_PERSONAL_TOKEN}")
+          curl -fsS "${auth[@]}" "${api}" > "$RUNNER_TEMP/project.json"
+          curl -fsS "${auth[@]}" "${api}/languages/progress?limit=500" > "$RUNNER_TEMP/languages-progress.json"
+          # Crowdin reports by language ID (fr, sr, nb), but the files are named by
+          # %locale% (fr-FR, sr-SP, nb-NO). The project's target languages map one to the other.
+          jq -n \
+            --slurpfile project "$RUNNER_TEMP/project.json" \
+            --slurpfile progress "$RUNNER_TEMP/languages-progress.json" '
+            ($project[0].data.targetLanguages | map({ key: .id, value: .locale }) | from_entries) as $locales
+            | $progress[0].data
+            | map(.data
+                | select($locales[.languageId] and .phrases.total > 0)
+                | { key: "\($locales[.languageId]).json",
+                    value: (.phrases.translated * 100 / .phrases.total | floor) })
+            | from_entries' > "$RUNNER_TEMP/progress.json"
+
       - name: Generate metadata
         run: |
           rm -f metadata.json
