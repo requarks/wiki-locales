@@ -48,7 +48,7 @@ jobs:
       - name: Generate metadata
         run: |
           rm -f metadata.json
-          bash ./dev/generate-metadata.sh
+          bash ./dev/generate-metadata.sh metadata.json "$RUNNER_TEMP/progress.json"
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v7
