@@ -9,6 +9,7 @@
 set -euo pipefail
 
 out="${1:-metadata.json}"
+progress="${2:-/dev/null}"   # optional { "fr-FR.json": 87, ... }
 out_base="${out##*/}"
 
 # Reading from stdin rather than passing the path keeps the output to a bare
@@ -41,9 +42,13 @@ done
 tmp="$(mktemp "${TMPDIR:-/tmp}/metadata.XXXXXX")"
 trap 'rm -f "$tmp"' EXIT
 
-jq -n '[ range(0; $ARGS.positional | length; 2) as $i
-         | { file: $ARGS.positional[$i], hash: $ARGS.positional[$i + 1] } ]' \
-   --args "${args[@]}" > "$tmp"
+jq -n --slurpfile progress "$progress" '
+  ($progress[0] // {}) as $pct
+  | [ range(0; $ARGS.positional | length; 2) as $i
+      | { file: $ARGS.positional[$i],
+          hash: $ARGS.positional[$i + 1],
+          completeness: $pct[$ARGS.positional[$i]] } ]' \
+  --args "${args[@]}" > "$tmp"
 
 mv "$tmp" "$out"
 trap - EXIT
