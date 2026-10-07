@@ -66,13 +66,13 @@
   },
   {
     "file": "fa-IR.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "f9d06934c543e5e95f2803c62ca0378840214265e1df40e7a31f07f2b7080a26",
     "completeness": 0
   },
   {
     "file": "fi-FI.json",
-    "hash": "989c0ca20f12360234e07feb9f48e09aaabcc2a2a39a7666481a9312a466979f",
-    "completeness": 20
+    "hash": "a81684522b29cf7b49437fa76c206855b8b355d3aa0e1e72ce7674d183b9f561",
+    "completeness": 30
   },
   {
     "file": "fr-FR.json",
