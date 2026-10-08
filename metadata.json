@@ -1,277 +1,277 @@
 [
   {
     "file": "af-ZA.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "ar-SA.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "az-AZ.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "bg-BG.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "bn-BD.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "bs-BA.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "ca-ES.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "cs-CZ.json",
-    "hash": "d81018da90df46e444343ca8b07703e789029a02807df37b4d45759d3d129421",
+    "hash": "22fb5b1fa8a10e124d9ca0383fe594cba25c34e458971d38296828554a50fe7d",
     "completeness": 0
   },
   {
     "file": "da-DK.json",
-    "hash": "b023ffede56f74abfa0beb1f27c388b777e31ef4477195b1af58e372d6559249",
+    "hash": "10caef6cbc5a0ad05bdb7e33729eceb5c106675d3e4cc173854db6d7fb3415b5",
     "completeness": 2
   },
   {
     "file": "de-DE.json",
-    "hash": "10ee6ae814110ac24c73eefb78b486dce71278dfd1a9bd5db6f6e8580c66c97d",
+    "hash": "d29558e72d91a1340704e09f150f26866de11e598363acd91c81c1736dc7b46f",
     "completeness": 5
   },
   {
     "file": "el-GR.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "es-ES.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "et-EE.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "fa-IR.json",
-    "hash": "f9d06934c543e5e95f2803c62ca0378840214265e1df40e7a31f07f2b7080a26",
+    "hash": "92e7cb0193c879a4fa227cd716d557c6b74c30167ad98d8d06c8da928a1f9e22",
     "completeness": 0
   },
   {
     "file": "fi-FI.json",
-    "hash": "a81684522b29cf7b49437fa76c206855b8b355d3aa0e1e72ce7674d183b9f561",
+    "hash": "67c6fcd811c28d3b198e5399b0f5fb099f14d0f85506d1f4da7a9a2d53d501f9",
     "completeness": 30
   },
   {
     "file": "fr-FR.json",
-    "hash": "a9a9260fffd3b3b4744caa416e9a4ff85b7db1459c8f6be324d8f0395ede7ee0",
-    "completeness": 14
+    "hash": "d5b5c184d1aa1d22b35eb4366d07e486b8da62a0321f003dc602f0470ffaa23c",
+    "completeness": 16
   },
   {
     "file": "ga-IE.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "he-IL.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "hi-IN.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "hr-HR.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "ht-HT.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "hu-HU.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "hy-AM.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "id-ID.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "is-IS.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "it-IT.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "ja-JP.json",
-    "hash": "1efdba5197ebcc46c7fa3504aedd767bf8e2026cfc43133e38bfc4f831e143ac",
+    "hash": "ba56d554b40dbb2cf2fae563ec06b5564b94d023f06689da399fad403e7c34dd",
     "completeness": 0
   },
   {
     "file": "km-KH.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "ko-KR.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "lt-LT.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "lv-LV.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "mk-MK.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "mn-MN.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "nb-NO.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "nl-NL.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "nn-NO.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "pl-PL.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "pt-BR.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "pt-PT.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "ro-RO.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "ru-RU.json",
-    "hash": "af69846eb14842c3e79173863ef7909c6068e6eb0629f676acbfe5d0dd93203d",
+    "hash": "db4ceb9aa147d9c5d10935b0f8e2b28a99b1fa06f77a6d8585466a87d77f7e9a",
     "completeness": 4
   },
   {
     "file": "si-LK.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "sk-SK.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "sl-SI.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "sr-CS.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "sr-SP.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "sv-SE.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "ta-IN.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "th-TH.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "tr-TR.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "ug-CN.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "uk-UA.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "vi-VN.json",
-    "hash": "a12ab70d80b3ad9441a6be6116eea3f38abb1bab4851025e199b95e4c6d65517",
+    "hash": "6d2a3f505da4b60eeb7c34770ae0fdd0c06af816374e6db4b56edbd5fa9fde8a",
     "completeness": 0
   },
   {
     "file": "zh-CN.json",
-    "hash": "748a59c275b0e68a460d4631c5202a7fc75b3ed076893847063662c5d145522d",
+    "hash": "659bd559b35a78406685ec6c94f0e19a85ac7700f90020e6cbf41caf71526353",
     "completeness": 85
   },
   {
     "file": "zh-TW.json",
-    "hash": "f1483005b5a870c01fe668df4beec9504bd5f5f105f226473ad5fdbe2902a957",
+    "hash": "19cefff3536607767475fab5127194c5aeef13a797cbc0ad5d45295e7cd75157",
     "completeness": 5
   }
 ]
