@@ -46,7 +46,7 @@
   },
   {
     "file": "de-DE.json",
-    "hash": "e904c27c86e7eac7e8ddb045798a725482707bcdad2fc83b9eccad6614d6ba1f",
+    "hash": "61f71035d4275fa453c2f10199b85bd0badb640799d27b57d0e8d6e873a8818e",
     "completeness": 5
   },
   {
@@ -201,8 +201,8 @@
   },
   {
     "file": "ru-RU.json",
-    "hash": "64ffded6182636e88b2990a96992568d4937512f2dbf12cade58005dba5647a9",
-    "completeness": 49
+    "hash": "cb7d4afb19cdab3875a3b1cdcd42e1ce99364169c4e17c5ce0fe425b076dcd70",
+    "completeness": 97
   },
   {
     "file": "si-LK.json",

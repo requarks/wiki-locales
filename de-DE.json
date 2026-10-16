@@ -158,7 +158,7 @@
   "admin.audit.actions.deleteBlock": "Benutzerdefinierten Block gelöscht",
   "admin.audit.actions.deleteComment": "Deleted a comment",
   "admin.audit.actions.deleteFolder": "Ein Ordner gelöscht",
-  "admin.audit.actions.deleteGlossaryTerm": "Deleted a glossary term",
+  "admin.audit.actions.deleteGlossaryTerm": "Löscht ein Glossar-Begriff",
   "admin.audit.actions.deleteGroup": "Eine Gruppe gelöscht",
   "admin.audit.actions.deleteHook": "Deleted a webhook",
   "admin.audit.actions.deleteIconSet": "Deleted an icon set",
