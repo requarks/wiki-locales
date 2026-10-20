@@ -131,7 +131,7 @@
   "admin.audit.accountGone": "Dieses Konto wurde inzwischen gelöscht",
   "admin.audit.actions.abandonImport": "Hat einen fehlgeschlagenen Import aufgegeben",
   "admin.audit.actions.addIconSet": "Icon-Set hinzugefügt",
-  "admin.audit.actions.addLiveNoteImage": "Added an image to a live note",
+  "admin.audit.actions.addLiveNoteImage": "Bild zu einer Live-Notiz hinzugefügt",
   "admin.audit.actions.approvePageEdit": "Änderungsvorschlag genehmigt",
   "admin.audit.actions.assignUserToGroup": "Benutzer einer Gruppe hinzugefügt",
   "admin.audit.actions.cancelJob": "Hat einen ausstehenden Job abgebrochen",
