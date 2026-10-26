@@ -2415,6 +2415,7 @@
   "common.header.move": "Переместить / переименовать",
   "common.header.myWiki": "Моя вики",
   "common.header.newPage": "Новая страница",
+  "common.header.noScriptNotice": "You are viewing the basic non-JavaScript version. Please enable JavaScript to view this website correctly.",
   "common.header.pageActions": "Действия со страницей",
   "common.header.profile": "Профиль",
   "common.header.search": "Поиск...",

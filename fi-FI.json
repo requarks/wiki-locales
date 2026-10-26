@@ -2415,6 +2415,7 @@
   "common.header.move": "Siirrä / Nimeä uudelleen",
   "common.header.myWiki": "Minun Wiki",
   "common.header.newPage": "Uusi sivu",
+  "common.header.noScriptNotice": "You are viewing the basic non-JavaScript version. Please enable JavaScript to view this website correctly.",
   "common.header.pageActions": "Sivun toiminnot",
   "common.header.profile": "Profiili",
   "common.header.search": "Hae...",

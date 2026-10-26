@@ -2415,6 +2415,7 @@
   "common.header.move": "移动 / 重命名",
   "common.header.myWiki": "我的 Wiki",
   "common.header.newPage": "新建页面",
+  "common.header.noScriptNotice": "You are viewing the basic non-JavaScript version. Please enable JavaScript to view this website correctly.",
   "common.header.pageActions": "页面操作",
   "common.header.profile": "个人信息",
   "common.header.search": "搜索...",
