@@ -1751,8 +1751,6 @@
   "admin.utilities.generateSampleHint": "Täytä tälle sivustolle sivuja, jotka sisältävät kaikenlaista muotoilua ja kaikki sisältölohkot kansiorakenteessa, joka on useamman tason syvyinen. Luo myös sivun, jossa on vilkasta keskustelua sekä blogin hakemistoon /my-blog sisältäen 25 julkaisua. Luotu kotisivu sisältää linkit kaikkiin luotuihin sivuihin, jos sivustolla ei kotisivua vielä ole. Tämä on enimmäkseen kehitystä ja vianetsintää varten.",
   "admin.utilities.generateSamplePartial": "Mitään mallisivua ei voitu luoda. | Luotiin 1 mallisivu. Loppuja ei voitu luoda. | Luotiin {count} mallisivua. Loppuja ei voitu luoda.",
   "admin.utilities.generateSampleSuccess": "Yhtään mallisivua ei luotu. | Luotiin 1 mallisivu. | Luotiin {count} mallisivua.",
-  "admin.utilities.graphEndpointSubtitle": "Muuta Wiki.js GraphQL päätepistettä",
-  "admin.utilities.graphEndpointTitle": "GraphQL päätepiste",
   "admin.utilities.groupAuthentication": "Autentikointi",
   "admin.utilities.groupMaintenance": "Kunnossapito",
   "admin.utilities.groupMigration": "Siirto / Varmuuskopiointi",

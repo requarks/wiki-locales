@@ -1751,8 +1751,6 @@
   "admin.utilities.generateSampleHint": "Заполнить этот сайт страницами, охватывающими все виды форматирования и все блоки, в дереве папок глубиной в несколько уровней, страницей с оживлённым обсуждением, а также блогом на /my-blog с 25 записями и главной страницей со ссылками на всё это, если у сайта её нет. В основном для разработки / отладки.",
   "admin.utilities.generateSamplePartial": "Не удалось записать ни одной примерной страницы. | Записана 1 примерная страница, остальные записать не удалось. | Записано примерных страниц: {count}, остальные записать не удалось.",
   "admin.utilities.generateSampleSuccess": "Ни одной примерной страницы не записано. | Записана 1 примерная страница. | Записано примерных страниц: {count}.",
-  "admin.utilities.graphEndpointSubtitle": "Изменение эндпоинта GraphQL для Wiki.js",
-  "admin.utilities.graphEndpointTitle": "Эндпоинт GraphQL",
   "admin.utilities.groupAuthentication": "Аутентификация",
   "admin.utilities.groupMaintenance": "Обслуживание",
   "admin.utilities.groupMigration": "Миграция / резервное копирование",

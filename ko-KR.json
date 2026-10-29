@@ -1751,8 +1751,6 @@
   "admin.utilities.generateSampleHint": "여러 단계의 폴더 트리에 모든 서식과 블록을 사용하는 페이지, 여러 토론이 있는 페이지, 게시글 25개가 포함된 /my-blog의 블로그를 생성합니다. 사이트에 홈 페이지가 없으면 모든 예시 콘텐츠로 연결되는 홈 페이지도 만듭니다. 주로 개발 및 디버깅 용도로 사용합니다.",
   "admin.utilities.generateSamplePartial": "예시 페이지를 작성하지 못했습니다. | 예시 페이지 1개를 작성했지만 나머지는 작성하지 못했습니다. | 예시 페이지 {count}개를 작성했지만 나머지는 작성하지 못했습니다.",
   "admin.utilities.generateSampleSuccess": "작성된 예시 페이지가 없습니다. | 예시 페이지 1개를 작성했습니다. | 예시 페이지 {count}개를 작성했습니다.",
-  "admin.utilities.graphEndpointSubtitle": "Wiki.js의 GraphQL 엔드포인트 변경",
-  "admin.utilities.graphEndpointTitle": "GraphQL 엔드포인트",
   "admin.utilities.groupAuthentication": "인증",
   "admin.utilities.groupMaintenance": "유지 관리",
   "admin.utilities.groupMigration": "이전 / 백업",

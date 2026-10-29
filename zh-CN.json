@@ -1751,8 +1751,6 @@
   "admin.utilities.generateSampleHint": "使用涵盖各种格式和每个区块的页面填充此站点，形成一个多层深的文件夹树，并在 /my-blog 下包含一个包含 25 篇文章的博客。主要用于开发/调试目的。",
   "admin.utilities.generateSamplePartial": "无法写入示例页面。 | 已写入 1 个示例页面；其余页面无法写入。 | 已写入 {count} 个示例页面；其余页面无法写入。",
   "admin.utilities.generateSampleSuccess": "未写入示例页面。 | 已写入 1 个示例页面。 | 已写入 {count} 个示例页面。",
-  "admin.utilities.graphEndpointSubtitle": "更改 Wiki.js 的 GraphQL 端点",
-  "admin.utilities.graphEndpointTitle": "GraphQL 端点",
   "admin.utilities.groupAuthentication": "身份验证",
   "admin.utilities.groupMaintenance": "维护",
   "admin.utilities.groupMigration": "迁移 / 备份",
