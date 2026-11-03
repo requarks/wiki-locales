@@ -2639,6 +2639,7 @@
   "editor.assets.uploadAssetsDropZone": "Selaa tai pudota tiedostoja tähän...",
   "editor.assets.uploadFailed": "Tiedoston lähetys epäonnistui.",
   "editor.backToEditor": "Takaisin editoriin",
+  "editor.blockContent.drawioInvalidServer": "This block's Server is not one the draw.io editor can be loaded from. It has to be an http or https address on a host other than this wiki.",
   "editor.blockContent.drawioLoading": "Ladataan draw.io editoria...",
   "editor.blockContent.drawioTitle": "Draw.io editori",
   "editor.blockContent.drawioUnreachable": "draw.io-editoria ei voitu ladata. Tarkista, että tämä osoite on tavoitettavissa selaimestasi.",

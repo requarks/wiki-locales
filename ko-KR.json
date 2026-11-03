@@ -2639,6 +2639,7 @@
   "editor.assets.uploadAssetsDropZone": "파일을 찾아보거나 여기에 놓으세요...",
   "editor.assets.uploadFailed": "파일 업로드에 실패했습니다.",
   "editor.backToEditor": "편집기로 돌아가기",
+  "editor.blockContent.drawioInvalidServer": "This block's Server is not one the draw.io editor can be loaded from. It has to be an http or https address on a host other than this wiki.",
   "editor.blockContent.drawioLoading": "draw.io 편집기 불러오는 중...",
   "editor.blockContent.drawioTitle": "Draw.io 편집기",
   "editor.blockContent.drawioUnreachable": "draw.io 편집기를 불러오지 못했습니다. 브라우저에서 이 주소에 접근할 수 있는지 확인하세요.",

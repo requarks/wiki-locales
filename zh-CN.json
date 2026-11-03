@@ -2639,6 +2639,7 @@
   "editor.assets.uploadAssetsDropZone": "浏览或拖放文件到此处...",
   "editor.assets.uploadFailed": "文件上传失败。",
   "editor.backToEditor": "返回编辑器",
+  "editor.blockContent.drawioInvalidServer": "This block's Server is not one the draw.io editor can be loaded from. It has to be an http or https address on a host other than this wiki.",
   "editor.blockContent.drawioLoading": "正在加载 draw.io 编辑器...",
   "editor.blockContent.drawioTitle": "Draw.io 编辑器",
   "editor.blockContent.drawioUnreachable": "无法加载 draw.io 编辑器。请检查你的浏览器是否可以访问此地址。",
