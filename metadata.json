@@ -46,8 +46,8 @@
   },
   {
     "file": "de-DE.json",
-    "hash": "47fbd5d122eafd3c179e93b63d5ecd49288de35690d98ab7da9943a57b329171",
-    "completeness": 58
+    "hash": "10d1f51d026527ea6bceecfb73720f53764322318be10c92942f92d00504d0fe",
+    "completeness": 98
   },
   {
     "file": "el-GR.json",
@@ -211,8 +211,8 @@
   },
   {
     "file": "sk-SK.json",
-    "hash": "f0b5def80fb0d43e6655c49a42cd3af985a6ee9ac42e3a6fab56a7ee2d579f88",
-    "completeness": 0
+    "hash": "683aba414d79eb75ff93286086b58b83583801577ed1b02989f30d73fbde5cff",
+    "completeness": 1
   },
   {
     "file": "sl-SI.json",
