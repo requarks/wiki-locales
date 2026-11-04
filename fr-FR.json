@@ -658,7 +658,7 @@
   "admin.general.sitemapHint": "Make a sitemap.xml available to search engines with all pages accessible to guests.",
   "admin.general.subtitle": "Main settings of your wiki",
   "admin.general.title": "Général",
-  "admin.general.uploadClear": "Clear",
+  "admin.general.uploadClear": "Effacer",
   "admin.general.uploadConflictBehavior": "Upload Conflict Behavior",
   "admin.general.uploadConflictBehaviorHint": "How should uploads for a file that already exists be handled? Overwriting replaces the file where it is, so pages already using it show the new version.",
   "admin.general.uploadConflictBehaviorNew": "Keep Both (Append Number)",
