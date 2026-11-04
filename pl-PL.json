@@ -75,7 +75,7 @@
   "admin.api.permissionGroups": "Uprawnienia Grupy",
   "admin.api.permissionsFrom": "Uprawnienia z {groups}",
   "admin.api.refreshSuccess": "Lista kluczy API została odświeżona.",
-  "admin.api.revoke": "Revoke",
+  "admin.api.revoke": "Unieważnij",
   "admin.api.revokeConfirm": "Unieważnić klucz API?",
   "admin.api.revokeConfirmText": "Czy na pewno chcesz unieważnić klucz {name}? Ta akcja nie może zostać cofnięta!",
   "admin.api.revokeSuccess": "Klucz został unieważniony pomyślnie.",
