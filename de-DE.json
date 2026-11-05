@@ -1946,7 +1946,7 @@
   "admin.utilities.purgeSampleConfirm": "Alle mit „{tag}“ getaggten Seiten auf {site} löschen?",
   "admin.utilities.purgeSampleConfirmWarn": "Es wird nur der Tag geprüft, daher wird auch eine Seite gelöscht, die Sie selbst mit „{tag}“ getaggt haben. Ein Ordner, in dem gelöschte Seiten lagen, wird ebenfalls gelöscht, sobald nichts anderes mehr darin ist. Die Beispielkonten, die die Beispieldiskussion geschrieben haben, werden gelöscht, sobald keiner ihrer Kommentare mehr existiert. Dies kann nicht rückgängig gemacht werden.",
   "admin.utilities.purgeSampleFailed": "Die Beispielinhalte konnten nicht gelöscht werden.",
-  "admin.utilities.purgeSampleHint": "Delete every page on this site tagged \"test\", which is what Generate Sample Content tags the pages it writes.",
+  "admin.utilities.purgeSampleHint": "Löscht alle Seiten dieser Website mit dem Tag „test“. Dieses Tag wird allen Seiten zugewiesen, die über „Beispielinhalte erzeugen“ erstellt werden.",
   "admin.utilities.purgeSampleSuccess": "Es gab keine Beispielinhalte zu löschen. | 1 Seite gelöscht. | {count} Seiten gelöscht.",
   "admin.utilities.rebuildPageLinks": "Seitenlinks neu aufbauen",
   "admin.utilities.rebuildPageLinksConfirm": "Jede Seite auf jeder Site wird erneut gelesen, um zu ermitteln, worauf sie verlinkt, und ihre Links auf nicht vorhandene Seiten werden als defekt markiert.",
