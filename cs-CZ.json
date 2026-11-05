@@ -120,7 +120,7 @@
   "admin.approval.reviewersHint": "Members of these groups review submissions, and are notified when a new one comes in.",
   "admin.approval.reviewersRequired": "Select at least one group to review submissions.",
   "admin.approval.saveFailed": "Failed to save the rule.",
-  "admin.approval.submitters": "Can submit edits",
+  "admin.approval.submitters": "Může odeslat úpravy",
   "admin.approval.submittersHint": "Members of these groups can submit edit suggestions for matching pages.",
   "admin.approval.submittersRequired": "Select at least one group that can submit edits.",
   "admin.approval.subtitle": "Define which pages accept edit suggestions from read-only users, and who reviews them",
