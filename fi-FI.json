@@ -333,6 +333,8 @@
   "admin.auth.addStrategy": "Lisää strategia",
   "admin.auth.allowPasskeys": "Salli todentamisavaimet",
   "admin.auth.allowPasskeysHint": "Sallitaanko käyttäjien kirjautua sisään todentamisavaimilla ja rekisteröidä uusia avaimia? Todentamisavaimet, jotka ovat jo lisätty, säilytetään ja niitä voi käyttää uudestaan heti, kun todentamisavaimet otetaan uudelleen käyttöön.",
+  "admin.auth.passkeyRpId": "Shared Passkey Domain",
+  "admin.auth.passkeyRpIdHint": "Leave empty to bind each passkey to the site it was registered on. Enter a parent domain, such as example.com, to let one passkey sign in on every site under that domain. Sites outside the domain keep their own hostname. Existing passkeys stay bound to their original domain, so users must register them again after you change this.",
   "admin.auth.allowPersonalTokens": "Salli henkilökohtaiset käyttöoikeustunnukset (Personal Access Token, PAT)",
   "admin.auth.allowPersonalTokensHint": "Pystyykö käyttäjät luomaan henkilökohtaisia käyttöoikeustunnuksia käyttääkseen rajapintaa heinä itsenään? Tämän ottaminen pois käytöstä, ottaa jo luodut käyttöoikeustunnukset myös pois käytöstä. Ne kuitenkin säilytetään ja toimivat jälleen, kun tämä käännetään takaisin päälle.",
   "admin.auth.allowProfileEditing": "Salli profiilin muokkaus",

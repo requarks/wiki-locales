@@ -333,6 +333,8 @@
   "admin.auth.addStrategy": "Strategie hinzufügen",
   "admin.auth.allowPasskeys": "Erlaube Passkeys",
   "admin.auth.allowPasskeysHint": "Können sich Benutzer mit einem Passkey anmelden und neue Passkeys registrieren? Bereits registrierte Passkeys bleiben erhalten, solange diese Funktion deaktiviert ist, und funktionieren wieder, sobald Sie sie erneut aktivieren.",
+  "admin.auth.passkeyRpId": "Shared Passkey Domain",
+  "admin.auth.passkeyRpIdHint": "Leave empty to bind each passkey to the site it was registered on. Enter a parent domain, such as example.com, to let one passkey sign in on every site under that domain. Sites outside the domain keep their own hostname. Existing passkeys stay bound to their original domain, so users must register them again after you change this.",
   "admin.auth.allowPersonalTokens": "Erlaube persönlichen Zugriffstoken (PAT)",
   "admin.auth.allowPersonalTokensHint": "Können Benutzer persönliche Zugriffstoken aus ihrem Profil erstellen, um die API als selbst zu verwenden? Wenn Sie diese Option deaktivieren, werden auch die bereits erstellten Token nicht mehr funktionieren. Sie werden erhalten und funktionieren wieder, sobald Sie es erneut aktivieren.",
   "admin.auth.allowProfileEditing": "Erlaube Profiländerungen",

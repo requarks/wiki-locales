@@ -333,6 +333,8 @@
   "admin.auth.addStrategy": "Добавить стратегию",
   "admin.auth.allowPasskeys": "Разрешить passkey",
   "admin.auth.allowPasskeysHint": "Могут ли пользователи входить с помощью passkey и регистрировать новые? Уже зарегистрированные passkey сохраняются, пока опция отключена, и снова заработают, как только вы её включите.",
+  "admin.auth.passkeyRpId": "Shared Passkey Domain",
+  "admin.auth.passkeyRpIdHint": "Leave empty to bind each passkey to the site it was registered on. Enter a parent domain, such as example.com, to let one passkey sign in on every site under that domain. Sites outside the domain keep their own hostname. Existing passkeys stay bound to their original domain, so users must register them again after you change this.",
   "admin.auth.allowPersonalTokens": "Разрешить персональные токены доступа",
   "admin.auth.allowPersonalTokensHint": "Могут ли пользователи создавать персональные токены доступа в своём профиле, чтобы использовать API от своего имени? Отключение этой функции также приводит к тому, что уже созданные токены перестают работать. Они сохраняются и снова начинают работать, как только вы снова включите эту функцию.",
   "admin.auth.allowProfileEditing": "Разрешить редактирование профиля",

@@ -333,6 +333,8 @@
   "admin.auth.addStrategy": "添加登录方式",
   "admin.auth.allowPasskeys": "允许通行密钥",
   "admin.auth.allowPasskeysHint": "用户可以用通行秘钥登录并进行注册吗？ 已注册的通行秘钥在禁用时将被保留，重新启用即可再次使用。",
+  "admin.auth.passkeyRpId": "Shared Passkey Domain",
+  "admin.auth.passkeyRpIdHint": "Leave empty to bind each passkey to the site it was registered on. Enter a parent domain, such as example.com, to let one passkey sign in on every site under that domain. Sites outside the domain keep their own hostname. Existing passkeys stay bound to their original domain, so users must register them again after you change this.",
   "admin.auth.allowPersonalTokens": "允许使用个人访问令牌（PAT）",
   "admin.auth.allowPersonalTokensHint": "用户能否从其个人信息中创建个人访问令牌，以本人身份使用 API？关闭此选项会使已创建的令牌失效。令牌会被保留，一旦重新开启，就会立即恢复可用。",
   "admin.auth.allowProfileEditing": "允许编辑个人信息",

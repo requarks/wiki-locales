@@ -333,6 +333,8 @@
   "admin.auth.addStrategy": "인증 방식 추가",
   "admin.auth.allowPasskeys": "패스키 허용",
   "admin.auth.allowPasskeysHint": "사용자가 패스키로 로그인하고 새 패스키를 등록할 수 있는지 설정합니다. 이 설정을 꺼도 기존 패스키는 유지되며, 다시 켜면 즉시 사용할 수 있습니다.",
+  "admin.auth.passkeyRpId": "Shared Passkey Domain",
+  "admin.auth.passkeyRpIdHint": "Leave empty to bind each passkey to the site it was registered on. Enter a parent domain, such as example.com, to let one passkey sign in on every site under that domain. Sites outside the domain keep their own hostname. Existing passkeys stay bound to their original domain, so users must register them again after you change this.",
   "admin.auth.allowPersonalTokens": "개인 액세스 토큰(PAT) 허용",
   "admin.auth.allowPersonalTokensHint": "사용자가 프로필에서 개인 액세스 토큰을 생성하여 자신의 계정으로 API를 사용할 수 있는지 설정합니다. 이 설정을 끄면 기존 토큰도 사용할 수 없게 됩니다. 토큰은 유지되며, 다시 켜면 즉시 사용할 수 있습니다.",
   "admin.auth.allowProfileEditing": "프로필 편집 허용",
