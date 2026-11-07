@@ -76,8 +76,8 @@
   },
   {
     "file": "fr-FR.json",
-    "hash": "16f6854ed392242d0c20747dbac2c7efde383d056863506fc51b7944a02c6cb9",
-    "completeness": 29
+    "hash": "2cfc077d8e3a2e07761be576b43c218dcee12d805cf68edd0d9a939d6c788818",
+    "completeness": 31
   },
   {
     "file": "ga-IE.json",
@@ -181,8 +181,8 @@
   },
   {
     "file": "pl-PL.json",
-    "hash": "7122de84d6b4b64a491c0394ec8df0d8f015c95abdebe5cdff22bed55fdf9c3e",
-    "completeness": 6
+    "hash": "c7fb1440533cc16fe9a8a731ca028049e302fe0a22f21425348ea23d9d47ae9b",
+    "completeness": 7
   },
   {
     "file": "pt-BR.json",
