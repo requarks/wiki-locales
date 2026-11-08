@@ -86,7 +86,7 @@
   },
   {
     "file": "he-IL.json",
-    "hash": "b13d36c3fe87fcbd1e963191dbc13a4d2c31495958f0301c0187c2ae2014887c",
+    "hash": "d66c24f5b0635ce0d92d8c6a540c015f627f1c26bd01b3776e9d4bf6e48af603",
     "completeness": 0
   },
   {
@@ -211,7 +211,7 @@
   },
   {
     "file": "sk-SK.json",
-    "hash": "fdcc2d0ece815f9b54c75aa2e414bd8dedc8aee847217593ae3ec898312a7fd2",
+    "hash": "1de9b642bdf5e1ea66b312e2f1f9fdbc82ddfb570099eb20244d1390d58b128d",
     "completeness": 99
   },
   {
@@ -266,7 +266,7 @@
   },
   {
     "file": "zh-CN.json",
-    "hash": "f83bcb2ec74d865c74436dc4240e78f554a5db83c584ec004940f7d344c9d2ef",
+    "hash": "37522f5c6b8fa3e8346f72a591e48c5553165f1bf655e5a9458b1e9df7dad397",
     "completeness": 73
   },
   {
