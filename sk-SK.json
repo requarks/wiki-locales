@@ -3071,7 +3071,7 @@
   "editor.props.styles": "Štýly CSS",
   "editor.props.stylesHint": "Pravidlá CSS, ktoré sa pridajú na stránku",
   "editor.props.tags": "Štítky",
-  "editor.props.tagInvalid": "Not added: {tags}. A tag may only contain letters, numbers, spaces, hyphens, underscores and dots.",
+  "editor.props.tagInvalid": "Neboli pridané: {tags}. Štítok môže obsahovať iba písmená, čísla, medzery, pomlčky, podtržníky a bodky.",
   "editor.props.tagsFailed": "Nepodarilo sa načítať existujúce štítky. Nové môžete stále pridávať.",
   "editor.props.tagsHint": "Pomocou štítkov zaraďte stránky do kategórií a uľahčite ich vyhľadávanie.",
   "editor.props.tagsPlaceholder": "Vyberte alebo vytvorte štítky...",
