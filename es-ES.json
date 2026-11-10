@@ -96,7 +96,7 @@
   "admin.approval.enableSuccess": "Rule enabled.",
   "admin.approval.enabled": "Enabled",
   "admin.approval.formInvalid": "One or more fields are invalid.",
-  "admin.approval.loadFailed": "Failed to load the approval rules.",
+  "admin.approval.loadFailed": "Error al cargar las reglas de aprobación.",
   "admin.approval.match": "Applies To",
   "admin.approval.matchEnd": "Path ends with",
   "admin.approval.matchExact": "La ruta es exactamente",
