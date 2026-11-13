@@ -46,7 +46,7 @@
   },
   {
     "file": "de-DE.json",
-    "hash": "b5e0f2d24974a2ff643e9027aff16903c2a7289673316c035f2868f06c4fd616",
+    "hash": "fc82039d341d11418315f043e7175ed1ca76c2018dfe8fb5be150891ff81170a",
     "completeness": 98
   },
   {
@@ -81,6 +81,11 @@
   },
   {
     "file": "ga-IE.json",
+    "hash": "1176d25382708100aa7b2263c60b20e34ce732090101b2404c61d89eebee9fc2",
+    "completeness": 0
+  },
+  {
+    "file": "gl-ES.json",
     "hash": "1176d25382708100aa7b2263c60b20e34ce732090101b2404c61d89eebee9fc2",
     "completeness": 0
   },
@@ -256,8 +261,8 @@
   },
   {
     "file": "uk-UA.json",
-    "hash": "1176d25382708100aa7b2263c60b20e34ce732090101b2404c61d89eebee9fc2",
-    "completeness": 0
+    "hash": "675e64dbebe94b5a5d9ff6369090b4df687f819cb1f30dde7bb4e94872773d4d",
+    "completeness": 5
   },
   {
     "file": "vi-VN.json",
