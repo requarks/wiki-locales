@@ -181,8 +181,8 @@
   },
   {
     "file": "pl-PL.json",
-    "hash": "ce1467f12fb177d719c67b582002a86e440242540aa31c3b90333eeb84939b65",
-    "completeness": 36
+    "hash": "4403f53d1f7a6931e60d67b879aee73cd2b0be2203a4b0e2e76f1eddfb525d6b",
+    "completeness": 37
   },
   {
     "file": "pt-BR.json",
@@ -266,8 +266,8 @@
   },
   {
     "file": "zh-CN.json",
-    "hash": "bd1b2be853d1bdb783ae494562317958c2af40c352c56733c2f87c5efeb00f21",
-    "completeness": 76
+    "hash": "9a48f63afb7398c4acaaffbd8e39b01d07e1b3921a0180e847df6c82228c9368",
+    "completeness": 78
   },
   {
     "file": "zh-TW.json",
