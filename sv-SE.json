@@ -1,6 +1,6 @@
 {
   "admin.adminArea": "Administration Area",
-  "admin.analytics.active": "Collecting",
+  "admin.analytics.active": "Samlar in",
   "admin.analytics.enabled": "Active",
   "admin.analytics.enabledHint": "Serve this provider's tracking code with every page of this site.",
   "admin.analytics.inactive": "Inactive",

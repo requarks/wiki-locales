@@ -31,8 +31,8 @@
   },
   {
     "file": "ca-ES.json",
-    "hash": "99756faaf053d575cc7b5a56463a354155cc44da314bc62d14f7a5d8d8caa641",
-    "completeness": 0
+    "hash": "03fb4a895e889e9665f1ad2bf9a76825c28e63948984f2d260501894fde0e99c",
+    "completeness": 3
   },
   {
     "file": "cs-CZ.json",
@@ -46,7 +46,7 @@
   },
   {
     "file": "de-DE.json",
-    "hash": "aa434e4b207ec6495369e762e4c8f9e61d430be77ebac8ae59eab03f39c3b599",
+    "hash": "fae925a1b26809f06dea1bcde31111288eef6407cf86148cc68631f85e36477c",
     "completeness": 98
   },
   {
@@ -186,8 +186,8 @@
   },
   {
     "file": "pl-PL.json",
-    "hash": "fc587d2dac5249866c28d208bf0a8c35a06674ba6dcb157d4040a4154b60040c",
-    "completeness": 49
+    "hash": "d069eaed523d6904c6ecee110384ea15e1a85e9c20b8f111c83053bdee565f66",
+    "completeness": 53
   },
   {
     "file": "pt-BR.json",
@@ -236,7 +236,7 @@
   },
   {
     "file": "sv-SE.json",
-    "hash": "cc97c6b5552b49a734bad377190dc2720d04cb56582a5d548b64144c5bb88344",
+    "hash": "653fb3fc77ff58fcffc6efe3585be4ee8b45f1f7e339722bc87dd28e9da15ce2",
     "completeness": 0
   },
   {
