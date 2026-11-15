@@ -152,7 +152,7 @@
   "admin.audit.actions.createLiveNote": "Created a live note",
   "admin.audit.actions.createPage": "Created a page",
   "admin.audit.actions.createSite": "Created a site",
-  "admin.audit.actions.createUser": "Created a user",
+  "admin.audit.actions.createUser": "Se creó un usuario",
   "admin.audit.actions.deleteAccessToken": "Deleted a personal access token",
   "admin.audit.actions.deleteAnnotation": "Deleted an annotation",
   "admin.audit.actions.deleteApprovalRule": "Deleted an approval rule",
