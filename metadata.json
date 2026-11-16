@@ -111,8 +111,8 @@
   },
   {
     "file": "hu-HU.json",
-    "hash": "8a0b0102f0af6b0a795e2af451cc7dae1d5eccef2447e6b3a8b226e77191c19d",
-    "completeness": 0
+    "hash": "33b7e8ec8a24e8bce862edde45ee3bfc34b11a84e7e3be95bdfa9ac48750d95f",
+    "completeness": 4
   },
   {
     "file": "hy-AM.json",
@@ -271,8 +271,8 @@
   },
   {
     "file": "zh-CN.json",
-    "hash": "d8810cdda27395f3fce902d4b16e6498e8c6c628eb1e89d1f3ac4b4403575bd7",
-    "completeness": 76
+    "hash": "6576dbd07b4a728123f3c176a7c16e45a38819bda668c348a4c1fa9eb1528e1e",
+    "completeness": 100
   },
   {
     "file": "zh-TW.json",
