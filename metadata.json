@@ -86,8 +86,8 @@
   },
   {
     "file": "gl-ES.json",
-    "hash": "d8a9d57948b478d838901ab75bfcc28d0b73c0e8a3b70da375b8f8e2601707a8",
-    "completeness": 3
+    "hash": "de64f202d105fb666db1b2091983e1613f032b16532325e67c4e5a2076f15a4e",
+    "completeness": 5
   },
   {
     "file": "he-IL.json",
@@ -111,8 +111,8 @@
   },
   {
     "file": "hu-HU.json",
-    "hash": "8d9489ed806a5589c537b093008b63eeb4e5d217609d3375288a2d016d42d295",
-    "completeness": 4
+    "hash": "651effea56625719a1b30288861e00deaa26c56162c813a582d6c59c27b09137",
+    "completeness": 17
   },
   {
     "file": "hy-AM.json",
