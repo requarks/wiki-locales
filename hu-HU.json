@@ -2635,7 +2635,7 @@
   "common.links.loading": "Hivatkozások betöltése...",
   "common.links.none": "Nem hivatkozik még erre másik oldal.",
   "common.links.noneHint": "Az erre hivatkozó oldalak itt lesznek felsorolva.",
-  "common.links.title": "Hivatkozón oldalak",
+  "common.links.title": "Hivatkozó oldalak",
   "common.loading": "Betöltés...",
   "common.maintenance.login": "Bejelentkezés",
   "common.maintenance.message": "Az oldal jelenleg karbantartás miatt nem elérhető. Kérjük, látogass vissza később.",

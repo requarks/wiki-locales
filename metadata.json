@@ -111,7 +111,7 @@
   },
   {
     "file": "hu-HU.json",
-    "hash": "651effea56625719a1b30288861e00deaa26c56162c813a582d6c59c27b09137",
+    "hash": "8c3654a959d7826f0aef78ffa07bc7f313ae10b4cb0f1a8917d48f1050a6a413",
     "completeness": 17
   },
   {
@@ -261,8 +261,8 @@
   },
   {
     "file": "uk-UA.json",
-    "hash": "ff0ef3a968cbb1cc797ea45a6a4e944659f595614661b38a7067099b9daac8b5",
-    "completeness": 4
+    "hash": "36d4dac5af6169590c522dd903b8f229a149901c65d6ff1809958bda224ca7c8",
+    "completeness": 5
   },
   {
     "file": "vi-VN.json",
@@ -271,8 +271,8 @@
   },
   {
     "file": "zh-CN.json",
-    "hash": "855643932b4b52aaef50ea5c4458106a7a0540b8c78acca589dc59c36cc702a2",
-    "completeness": 99
+    "hash": "3c69770f8649ef9700f7fe6364d29a92ef346d54be64e5a6063518691c7ae1c5",
+    "completeness": 100
   },
   {
     "file": "zh-TW.json",
