@@ -1,47 +1,47 @@
 [
   {
     "file": "af-ZA.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "ar-SA.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "az-AZ.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "bg-BG.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "bn-BD.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "bs-BA.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "ca-ES.json",
-    "hash": "7aeb807d11df86f7340129bb18f9017b07d4642461906ba8c7b73028da9693e3",
+    "hash": "ad922c05c186cd27b0f09aad6fd789c07423020797161a120e5ada1b8f76359d",
     "completeness": 3
   },
   {
     "file": "cs-CZ.json",
-    "hash": "fa8f4488d13710f3e62f6f098cee1ae3877bdab485f08a8519a02623b93d927a",
+    "hash": "949d4de216ce8765a8bbd8b87f07cb1928363567421b95098237934017ca2a1a",
     "completeness": 6
   },
   {
     "file": "da-DK.json",
-    "hash": "a7f0017b3313794ed76367bcadb6eeaa82a886540956746960beb5ce5fc832c3",
+    "hash": "97ba0eb19a83cbfa8bcb066aaa3bccca8a498c4ac5f67868cc3733e0c27fa8b1",
     "completeness": 5
   },
   {
@@ -51,22 +51,22 @@
   },
   {
     "file": "el-GR.json",
-    "hash": "91efc22f900dd7cf5bf7eeba23c8a1a5640e6e35f39db3e52a8cc0aab0e6eadd",
+    "hash": "5c869164589f92836e1a670188e008374de9d62f5ccc8d502e48a905185cee67",
     "completeness": 0
   },
   {
     "file": "es-ES.json",
-    "hash": "858b4802b554a4f3dfc975dd891aae6b07cd036611e45cccd4ecfcf15b8dd3ee",
+    "hash": "b2057ffa93a300725a809573d549bdc89d244cd301edf92736d79e661b8553ef",
     "completeness": 3
   },
   {
     "file": "et-EE.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "fa-IR.json",
-    "hash": "fe7236f3ef6d28aea5b4b69a051581cd75d8deb77429828be1346381d5f8b430",
+    "hash": "bde186c4dd37d2ddaacc3157bc1086145d513ba5df6d71ba89a237d5f64e36cb",
     "completeness": 0
   },
   {
@@ -76,72 +76,72 @@
   },
   {
     "file": "fr-FR.json",
-    "hash": "78fa05a77e36c442218425622cb6fb654640420a7690afa877fb9e0385cc6aa2",
+    "hash": "5c9e1396fbca96d925488ef60bf3abd7390b49019266d6fe20dbee5cecdb4d47",
     "completeness": 31
   },
   {
     "file": "ga-IE.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "gl-ES.json",
-    "hash": "7e6205a54077c6bf497ab24ee343cccce4c638aa11acb7520b600b78459f71c9",
+    "hash": "c88a1530e9b3e07034326ae114abffd15eae07d22fcbb16bb71e24e08e548c21",
     "completeness": 5
   },
   {
     "file": "he-IL.json",
-    "hash": "fb9273b5f6118063371f56e6abf51f36a07798176d2b61c6b4e26dc9d02f2d02",
+    "hash": "c98933d19662d3e8e5e3c47775050a575c4667939459efc6f1bf3205ed760c20",
     "completeness": 2
   },
   {
     "file": "hi-IN.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "hr-HR.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "ht-HT.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "hu-HU.json",
-    "hash": "566c95ef4b171a6f146fb87586df19af19f594677cc969a9dc460d7b9c41b016",
+    "hash": "c8f045485f7d2da32cb4ef3c0ab07601b26028db82b7ee7b919721e18e469182",
     "completeness": 17
   },
   {
     "file": "hy-AM.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "id-ID.json",
-    "hash": "46b05cb7ae929689787a5fb877a7d34c86a8e66b6b7e7c296a315cedcf15d7bd",
+    "hash": "c62a128154783c9d0c578c6fbb5c23117907af5c32720e1ed53bf005ec24f389",
     "completeness": 0
   },
   {
     "file": "is-IS.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "it-IT.json",
-    "hash": "dcc4a6b01bf65cef7ba4f4d6ab8c8dc638c1c4e74e8d19aa163a99013145a9ca",
-    "completeness": 1
+    "hash": "779990a4f5db0c8f5b7fd1793455182155e0dda657966ec8ce05c6ed58c48a88",
+    "completeness": 2
   },
   {
     "file": "ja-JP.json",
-    "hash": "22275e01305fa82a18d883c48b955d6d68f328fe890eb91f0d4e0435ddeb8661",
+    "hash": "b04708b4f40c48059e1923c22db97dcef6b84f9f92dc86d193bd257dc5692567",
     "completeness": 0
   },
   {
     "file": "km-KH.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
@@ -156,52 +156,52 @@
   },
   {
     "file": "lv-LV.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "mk-MK.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "mn-MN.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "nb-NO.json",
-    "hash": "2dccbb2d646ecf097aabb4b3637e4e50367e94fbe2f77c0e380540514e5b5243",
+    "hash": "afb30717e0faf64657585c7066bd01b6f0799abcb76d94be5ee924479ac2b89b",
     "completeness": 1
   },
   {
     "file": "nl-NL.json",
-    "hash": "53358db62f420e7d8c9872ab65b5034d865ad579d50ae83cbafad0356ba55d2d",
+    "hash": "591b117846f856d80449e6f2023eab51317c3c0823b92fa89bc77a780317b3f4",
     "completeness": 6
   },
   {
     "file": "nn-NO.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "pl-PL.json",
-    "hash": "58f958511fe30779f938150af819dc7497771172942fd8f1d4d905b28aef0530",
+    "hash": "3e9b2df345172e976943a627eee57643824caa3b736a18dafc32fc6c1b01c5d1",
     "completeness": 53
   },
   {
     "file": "pt-BR.json",
-    "hash": "417fedbcf63a0efae16815d7bafc9b9bba68149545638267491dca665e75e18d",
+    "hash": "3edc0bcb2b929f9c0aed025b1b01c0066e20bdbc193ce20ed364576b413ea4dc",
     "completeness": 23
   },
   {
     "file": "pt-PT.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "ro-RO.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
@@ -211,7 +211,7 @@
   },
   {
     "file": "si-LK.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
@@ -221,52 +221,52 @@
   },
   {
     "file": "sl-SI.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "sr-CS.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "sr-SP.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "sv-SE.json",
-    "hash": "31049e56da7a9c7f3a5ea8585a7c6df8ac72912b34e5ff38c2fb84b3b47ca6e1",
+    "hash": "00aa400de5ab9d3484f5fb2ebd6adccbb9cffbe419b744047cce88191c7ed2e8",
     "completeness": 0
   },
   {
     "file": "ta-IN.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "th-TH.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "tr-TR.json",
-    "hash": "165be411deb2c1425500eb6a6f698bbe983c19386fb56f40393720678548f4e1",
+    "hash": "12948488a5c3121f125af7c9dbc326c65c25d3be730ad3356406640c10c88502",
     "completeness": 1
   },
   {
     "file": "ug-CN.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
     "file": "uk-UA.json",
-    "hash": "ac923b78f62ef5229235ef4d2656e1748141dd0235eb0655662bbdebd09f1bf0",
+    "hash": "d80ee48e94a0076907a15649d6414dd7614f324cd5afec6d787e826f11dbbed6",
     "completeness": 5
   },
   {
     "file": "vi-VN.json",
-    "hash": "11b25cb2984350238816266c6b104c61e5cc3228c994b37d2a884c34c6fcba32",
+    "hash": "d9ee17edbf720057f10c4201e03e6799e0e6f9d96b31cdd98d1e39e8f7159344",
     "completeness": 0
   },
   {
@@ -276,7 +276,7 @@
   },
   {
     "file": "zh-TW.json",
-    "hash": "52055850fadb9311f3559346c7391cdab9b5894a1d8e3b629708dd317e398dbc",
+    "hash": "73f27c8f9dc47a449059a3f7b84342a69f7ac5ad3bdcc436a04e339be61f8e15",
     "completeness": 11
   }
 ]
