@@ -2744,6 +2744,7 @@
   "common.feedback.withdrawFailed": "아이디어를 철회하지 못했습니다.",
   "common.feedback.withdrawTitle": "이 아이디어를 철회할까요?",
   "common.feedback.withdrawn": "아이디어를 철회했습니다.",
+  "common.field.choose": "Choose…",
   "common.field.createdOn": "생성일",
   "common.field.id": "ID",
   "common.field.lastUpdated": "마지막 갱신일",

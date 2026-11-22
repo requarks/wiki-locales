@@ -2744,6 +2744,7 @@
   "common.feedback.withdrawFailed": "Nem sikerült az ötlet visszavonása.",
   "common.feedback.withdrawTitle": "Visszavonod ezt az ötletet?",
   "common.feedback.withdrawn": "Az ötleted vissza lett vonva.",
+  "common.field.choose": "Choose…",
   "common.field.createdOn": "Létrehozva",
   "common.field.id": "Azonosító",
   "common.field.lastUpdated": "Utolsó frissítés",

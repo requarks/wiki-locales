@@ -2744,6 +2744,7 @@
   "common.feedback.withdrawFailed": "Nepavyko atsiimti idėjos.",
   "common.feedback.withdrawTitle": "Atsiimti šią idėją?",
   "common.feedback.withdrawn": "Jūsų idėja atsiimta.",
+  "common.field.choose": "Choose…",
   "common.field.createdOn": "Sukurta",
   "common.field.id": "ID",
   "common.field.lastUpdated": "Paskutinį kartą atnaujinta",

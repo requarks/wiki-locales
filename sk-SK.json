@@ -2744,6 +2744,7 @@
   "common.feedback.withdrawFailed": "Nápad sa nepodarilo stiahnuť.",
   "common.feedback.withdrawTitle": "Stiahnuť tento nápad?",
   "common.feedback.withdrawn": "Váš nápad bol stiahnutý.",
+  "common.field.choose": "Choose…",
   "common.field.createdOn": "Vytvorené dňa",
   "common.field.id": "ID",
   "common.field.lastUpdated": "Posledná aktualizácia",

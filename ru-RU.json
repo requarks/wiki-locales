@@ -2744,6 +2744,7 @@
   "common.feedback.withdrawFailed": "Эту идею нельзя было отозвать.",
   "common.feedback.withdrawTitle": "Отозвать эту идею?",
   "common.feedback.withdrawn": "Ваша идея была отозвана.",
+  "common.field.choose": "Choose…",
   "common.field.createdOn": "Создано",
   "common.field.id": "ID",
   "common.field.lastUpdated": "Последнее обновление",

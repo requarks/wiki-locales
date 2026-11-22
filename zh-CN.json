@@ -2744,6 +2744,7 @@
   "common.feedback.withdrawFailed": "无法撤回这条建议。",
   "common.feedback.withdrawTitle": "撤回这条建议？",
   "common.feedback.withdrawn": "你的建议已撤回。",
+  "common.field.choose": "Choose…",
   "common.field.createdOn": "创建于",
   "common.field.id": "ID",
   "common.field.lastUpdated": "上次更新",

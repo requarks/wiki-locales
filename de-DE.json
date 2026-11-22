@@ -2744,6 +2744,7 @@
   "common.feedback.withdrawFailed": "Die Idee konnte nicht zurückgezogen werden.",
   "common.feedback.withdrawTitle": "Diese Idee zurückziehen?",
   "common.feedback.withdrawn": "Ihre Idee wurde zurückgezogen.",
+  "common.field.choose": "Choose…",
   "common.field.createdOn": "Erstellt am",
   "common.field.id": "ID",
   "common.field.lastUpdated": "Zuletzt aktualisiert",
