@@ -1224,7 +1224,7 @@
   "admin.navigation.placementEnd": "At the End",
   "admin.navigation.removePagesFromParentMenu": "删除页面时从直接父菜单移除",
   "admin.navigation.removePagesFromParentMenuHint": "删除页面时，从其直接父文件夹的导航菜单中移除指向它的链接。删除文件夹时，移除那些用来打开该文件夹导航菜单的菜单项。",
-  "admin.navigation.showFolderPages": "Show In This Folder Section",
+  "admin.navigation.showFolderPages": "显示在此文件夹的部分",
   "admin.navigation.showFolderPagesHint": "Show an \"In this folder\" section at the top of the sidebar on a page that has a folder at the same path, listing the pages in that folder the reader may open.",
   "admin.navigation.showParentLink": " 显示「上一级」链接",
   "admin.navigation.showParentLinkHint": " 在每个非根导航菜单的顶部显示一个「上一级」链接，指向该菜单所属页面或文件夹的上一级。从菜单项打开的菜单里，这个位置显示的是「返回」链接。",
